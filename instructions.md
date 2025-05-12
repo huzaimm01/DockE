@@ -10,5 +10,5 @@ dotnet run --project DockE.csproj
 
 -Done! Now, pressing Ctrl+Shift+. will open the dock. It will close (hide) to the tool tray.
 
--You can also run it in VS (NOT VSCode) if you want to but like why would you do that
+You can also run it in VS (NOT VSCode) if you want to but like why would you do that
 ---
